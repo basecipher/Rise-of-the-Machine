@@ -14,9 +14,9 @@ Jupyter notebook w/ Pandas, tensorflow and sklearn packages.
 * Second attempt a hidden layer containing 90 neurons was added to the model. Accuracy of this model is 72.6%
 * For the 3rd and final attempt the activation function in the hidden layers were changed to "TANH".  The activation function used was "SOFTPLUS" for the output layer.  The accuracy of this model is 72.8%
 
-![Model 3 Structure](https://github.com/basecipher/Election_Analysis/blob/main/Election%20Results.png)
+![Model 3 Structure](https://github.com/basecipher/Rise-of-the-Machine/blob/main/Neural_Network_Charity_Analysis/Images/Model%203%20Structure.jpg)
 
 ## Summary: 
 No models met the 75% standard however the best outcome was rendered by the 3rd model by achieving 72.8% accuracy.
 
-![Best Results - Model 3](https://github.com/basecipher/Election_Analysis/blob/main/Election%20Results.png)
+![Best Results - Model 3](https://github.com/basecipher/Rise-of-the-Machine/blob/main/Neural_Network_Charity_Analysis/Images/Best%20Results%20-%20Model%203.jpg)
